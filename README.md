@@ -1,4 +1,9 @@
-## Hi there 👋
+Industrial equipment technician trying to learn to code. Finished CS50P, trying to figure out my next step. 
+
+I'm learning python, probably going to try to learn some other languages too. 
+
+I would love any feedback on my projects. 
+
 
 <!--
 **peanut-arbuckle22/peanut-arbuckle22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
